@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1034490958807",
+    "project_id": "hackathon-app123",
+    "storage_bucket": "hackathon-app123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034490958807:android:e7a51407171022832e7192",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Lc7cYTOAiFnK203qCftahbtozaoDPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034490958807:android:24eb471e8f72c3c92e7192",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Lc7cYTOAiFnK203qCftahbtozaoDPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034490958807:android:c64fe4267727be5f2e7192",
+        "android_client_info": {
+          "package_name": "com.example.hackaton_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Lc7cYTOAiFnK203qCftahbtozaoDPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
