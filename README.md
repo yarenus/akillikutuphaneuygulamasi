@@ -30,14 +30,32 @@ Bu projeyi, *üniversitemizde yaşanan kütüphane sorunları* nedeniyle gel
 ⚠ *Karşılaşılan Sorunlar:*  
 - Backend tarafında *masa seçme işlemi sırasında kalıcı bir hata oluştu*.  
 - *Süre kısıtı nedeniyle* bazı eksiklikler kaldı.  
-- *Arayüz geliştirme süreci*, backendde yaşanan sorunlar nedeniyle beklenen düzeye ulaştırılamadı.  
+- *Arayüz geliştirme süreci*, backendde yaşanan sorunlar nedeniyle beklenen düzeye ulaştırılamadı.
 
----
+  
+## 🔧 Kurulum  
+
+Projeyi yerel ortamında çalıştırmak için aşağıdaki adımları takip edebilirsin:  
+
+### ⿡ Gereksinimler  
+- *Flutter 3.x.x* ve Dart kurulu olmalı  
+- *Firebase yapılandırması yapılmış olmalı*  
+- *Android Studio veya VSCode* yüklü olmalı  
+
 
 ## 5️⃣ Sonuç ve Değerlendirme  
 📌 *Başarılar:* Backend kısmında *veri tabanı yönetimi ve bağlantı işlemleri sorunsuz şekilde tamamlandı*.  
 📌 *Eksiklikler:* Kalıcı masa seçme hatası giderilemedi ve proje tam anlamıyla tamamlanamadı.  
-📌 *Genel Değerlendirme:* *Temel ihtiyaçları karşılayan bir uygulama ortaya çıktı*, ancak geliştirme süreci devam ettirildiğinde daha stabil ve kapsamlı bir sistem elde edilebilir.  
+📌 *Genel Değerlendirme:* *Temel ihtiyaçları karşılayan bir uygulama ortaya çıktı*, ancak geliştirme süreci devam ettirildiğinde daha stabil ve kapsamlı bir sistem elde edilebilir.
+
+### ⿢ Projeyi Klonla  
+```bash
+git clone https://github.com/yarenus/akillikutuphaneuygulamasi
+.git
+cd akillikutuphaneuygulamasi
+
+---
+
 
 
 
